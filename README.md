@@ -5,7 +5,7 @@ This repository contains test results from a kdevops demonstration of Milvus per
 ## Test Results
 
 ### Multi-Filesystem Results
-- **HTML Report**: [results-multifs/benchmark_report.html](results-multifs/benchmark_report.html)
+- **HTML Report**: [View Report](https://htmlpreview.github.io/?https://github.com/mcgrof/demo-milvus-kdevops-results/blob/master/results-multifs/benchmark_report.html) | [Raw HTML](results-multifs/benchmark_report.html)
 - **Summary**: [results-multifs/benchmark_summary.txt](results-multifs/benchmark_summary.txt)
 - **Performance Visualizations**:
   - [Filesystem Comparison](results-multifs/filesystem_comparison.png)
@@ -15,7 +15,7 @@ This repository contains test results from a kdevops demonstration of Milvus per
   - [Performance Matrix](results-multifs/performance_matrix.png)
 
 ### Simple Results
-- **HTML Report**: [results-simple/benchmark_report.html](results-simple/benchmark_report.html)
+- **HTML Report**: [View Report](https://htmlpreview.github.io/?https://github.com/mcgrof/demo-milvus-kdevops-results/blob/master/results-simple/benchmark_report.html) | [Raw HTML](results-simple/benchmark_report.html)
 - **Summary**: [results-simple/benchmark_summary.txt](results-simple/benchmark_summary.txt)
 - **Performance Visualizations**:
   - [Performance Heatmap](results-simple/graphs/performance_heatmap.png)
